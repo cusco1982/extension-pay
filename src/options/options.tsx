@@ -5,7 +5,15 @@ import './options.css'
 const App: React.FC<{}> = () => {
   return (
     <div>
+
+
+
+
       <img src="icon.png" />
+
+
+
+
     </div>
   )
 }
